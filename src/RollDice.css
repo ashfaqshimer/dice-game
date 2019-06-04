@@ -2,7 +2,7 @@
 	border: beige 1px solid;
 	display: inline-block;
 	padding: 30px;
-	margin-top: 10%;
+	margin-top: 5%;
 }
 
 .RollDice-title {
@@ -15,8 +15,8 @@
 	background: black;
 	color: white;
 	border: none;
-	padding: 20px;
-	border-radius: 5px;
+	padding: 1.5em;
+	border-radius: 10px;
 }
 
 .RollDice-button:hover {
