@@ -1,0 +1,7 @@
+.Die {
+	display: inline-block;
+	margin: 50px 30px;
+}
+.Die i {
+	color: slateblue;
+}

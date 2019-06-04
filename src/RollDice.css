@@ -1,0 +1,25 @@
+.RollDice {
+	border: beige 1px solid;
+	display: inline-block;
+	padding: 30px;
+	margin-top: 10%;
+}
+
+.RollDice-title {
+	color: burlywood;
+}
+
+.RollDice-button {
+	display: inline-block;
+	width: 60%;
+	background: black;
+	color: white;
+	border: none;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.RollDice-button:hover {
+	background: rgb(105, 34, 172);
+	cursor: pointer;
+}
